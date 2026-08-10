@@ -155,7 +155,7 @@ The interactive dashboard includes:
 
 ### Insights & Recommendations
 
-![Ondo Juvenile Correctional Home Insights & Recommendation](Ondo%20Juvenile%20Correctional%20Home%20Insights%20%26%20Recommendation.png)
+![Ondo Juvenile Correctional Home Insights & Recommendations](Ondo%20Juvenile%20Correctional%20Home%20Insights%20%26%20Recommendations.png)
 
 ---
 
