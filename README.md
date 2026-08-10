@@ -151,11 +151,11 @@ The interactive dashboard includes:
 
 ### Analysis & Dashboard
 
-![Ondo Correctional Home Dashboard](images/Ondo%20Correctional%20Home%20Dasboard.png)
+![Ondo Correctional Home Dashboard](Ondo%20Correctional%20Home%20Dasboard.png)
 
 ### Insights & Recommendations
 
-![Ondo Juvenile Correctional Home Insights & Recommendation](images/Ondo%20Juvenile%20Correctional%20Home%20Insights%20%26%20Recommendation.png)
+![Ondo Juvenile Correctional Home Insights & Recommendation](Ondo%20Juvenile%20Correctional%20Home%20Insights%20%26%20Recommendation.png)
 
 ---
 
